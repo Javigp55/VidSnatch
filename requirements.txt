@@ -1,0 +1,4 @@
+django
+djangorestframework
+yt_dlp
+tiktok-downloader
