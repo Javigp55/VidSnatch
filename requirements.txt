@@ -1,4 +1,5 @@
 django
 djangorestframework
+django-cors-headers
+
 yt_dlp
-tiktok-downloader
